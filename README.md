@@ -1,5 +1,5 @@
 # readlongs
-Audiobook alignment for North American indigenous languages
+Audiobook alignment for North American Indigenous languages
 
 # end product
 
